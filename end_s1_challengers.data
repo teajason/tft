@@ -1,0 +1,1136 @@
+{
+    "info": {
+        "game_datetime": 1573550169796,
+        "participants": [
+            {
+                "placement": 1,
+                "level": 8,
+                "last_round": 34,
+                "time_eliminated": 2203.517822265625,
+                "companion": {
+                    "skin_ID": 2,
+                    "content_ID": "f064e66d-49af-41e4-bd45-c8ada0b5b1af",
+                    "species": "PetSGPig"
+                },
+                "traits": [
+                    {
+                        "tier_total": 1,
+                        "name": "Avatar",
+                        "tier_current": 1,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Berserker",
+                        "tier_current": 1,
+                        "num_units": 3
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Electric",
+                        "tier_current": 2,
+                        "num_units": 3
+                    },
+                    {
+                        "tier_total": 1,
+                        "name": "Predator",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Set2_Assassin",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Set2_Glacial",
+                        "tier_current": 3,
+                        "num_units": 6
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Shadow",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Summoner",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Warden",
+                        "tier_current": 1,
+                        "num_units": 2
+                    }
+                ],
+                "players_eliminated": 4,
+                "puuid": "qTOHmT_nhtehdJ3ERr_kEgpyE009-OCcT3ufrEcEOClXad6hpwBoEZEyLnCBpkWsQ2thzPCPm3UhnA",
+                "total_damage_to_players": 163,
+                "units": [
+                    {
+                        "tier": 2,
+                        "items": [
+                            10204,
+                            36,
+                            44
+                        ],
+                        "character_id": "TFT2_Zed",
+                        "name": "Zed",
+                        "rarity": 4
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            10204
+                        ],
+                        "character_id": "TFT2_LuxGlacial",
+                        "name": "Lux",
+                        "rarity": 5
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_Braum",
+                        "name": "Braum",
+                        "rarity": 1
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_Warwick",
+                        "name": "Warwick",
+                        "rarity": 0
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            99,
+                            45,
+                            59
+                        ],
+                        "character_id": "TFT2_Volibear",
+                        "name": "Volibear",
+                        "rarity": 1
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            56
+                        ],
+                        "character_id": "TFT2_Ornn",
+                        "name": "Ornn",
+                        "rarity": 0
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            56
+                        ],
+                        "character_id": "TFT2_Sion",
+                        "name": "Sion",
+                        "rarity": 2
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            79,
+                            23,
+                            16
+                        ],
+                        "character_id": "TFT2_Olaf",
+                        "name": "Olaf",
+                        "rarity": 3
+                    }
+                ],
+                "gold_left": 1
+            },
+            {
+                "placement": 5,
+                "level": 7,
+                "last_round": 30,
+                "time_eliminated": 1951.411865234375,
+                "companion": {
+                    "skin_ID": 9,
+                    "content_ID": "f435c4bb-b7fc-4b7b-aa7c-5b0b660fdd8c",
+                    "species": "PetSGPig"
+                },
+                "traits": [
+                    {
+                        "tier_total": 2,
+                        "name": "Berserker",
+                        "tier_current": 0,
+                        "num_units": 2
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Crystal",
+                        "tier_current": 1,
+                        "num_units": 2
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Electric",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Ocean",
+                        "tier_current": 1,
+                        "num_units": 2
+                    },
+                    {
+                        "tier_total": 1,
+                        "name": "Predator",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Set2_Glacial",
+                        "tier_current": 1,
+                        "num_units": 2
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Warden",
+                        "tier_current": 3,
+                        "num_units": 6
+                    }
+                ],
+                "players_eliminated": 0,
+                "puuid": "6enNs6gshwXfAKfkJXEMRB9OA-KY-abcCA94ANW0HGDTmTrxL6BUFaAGjGPLnc7EWzY9vhX3r_pd9w",
+                "total_damage_to_players": 60,
+                "units": [
+                    {
+                        "tier": 2,
+                        "items": [
+                            10204
+                        ],
+                        "character_id": "TFT2_Skarner",
+                        "name": "Skarner",
+                        "rarity": 1
+                    },
+                    {
+                        "tier": 1,
+                        "items": [],
+                        "character_id": "TFT2_Nautilus",
+                        "name": "Nautilus",
+                        "rarity": 2
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_Braum",
+                        "name": "Braum",
+                        "rarity": 1
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            58,
+                            2,
+                            11
+                        ],
+                        "character_id": "TFT2_Olaf",
+                        "name": "Olaf",
+                        "rarity": 3
+                    },
+                    {
+                        "tier": 1,
+                        "items": [
+                            77,
+                            5
+                        ],
+                        "character_id": "TFT2_Taric",
+                        "name": "Taric",
+                        "rarity": 4
+                    },
+                    {
+                        "tier": 3,
+                        "items": [
+                            89,
+                            16
+                        ],
+                        "character_id": "TFT2_Thresh",
+                        "name": "Thresh",
+                        "rarity": 1
+                    },
+                    {
+                        "tier": 3,
+                        "items": [],
+                        "character_id": "TFT2_Ornn",
+                        "name": "Ornn",
+                        "rarity": 0
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_Nautilus",
+                        "name": "Nautilus",
+                        "rarity": 2
+                    }
+                ],
+                "gold_left": 0
+            },
+            {
+                "placement": 7,
+                "level": 7,
+                "last_round": 28,
+                "time_eliminated": 1839.4876708984375,
+                "companion": {
+                    "skin_ID": 7,
+                    "content_ID": "61a482c9-f805-4431-817e-f2e2bcf8bc24",
+                    "species": "PetSGShisa"
+                },
+                "traits": [
+                    {
+                        "tier_total": 2,
+                        "name": "Desert",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Electric",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Inferno",
+                        "tier_current": 1,
+                        "num_units": 3
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Mage",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Ocean",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Set2_Assassin",
+                        "tier_current": 0,
+                        "num_units": 2
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Shadow",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Summoner",
+                        "tier_current": 1,
+                        "num_units": 4
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Warden",
+                        "tier_current": 0,
+                        "num_units": 1
+                    }
+                ],
+                "players_eliminated": 0,
+                "puuid": "LsQ9VmCNHGZvlMXyTg4c2mZ3OT9mcrfX6FDrc04JIP_mn66fJCcyJkLOsYcPS-t7fKD91Ak86pjizw",
+                "total_damage_to_players": 69,
+                "units": [
+                    {
+                        "tier": 2,
+                        "items": [
+                            10204
+                        ],
+                        "character_id": "TFT2_Malzahar",
+                        "name": "Malzahar",
+                        "rarity": 1
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_Diana",
+                        "name": "Diana",
+                        "rarity": 0
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            14
+                        ],
+                        "character_id": "TFT2_Zyra",
+                        "name": "Zyra",
+                        "rarity": 0
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            23,
+                            37,
+                            10204
+                        ],
+                        "character_id": "TFT2_Brand",
+                        "name": "Brand",
+                        "rarity": 3
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_Azir",
+                        "name": "Azir",
+                        "rarity": 2
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            14,
+                            47,
+                            59
+                        ],
+                        "character_id": "TFT2_Zed",
+                        "name": "Zed",
+                        "rarity": 4
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_Nautilus",
+                        "name": "Nautilus",
+                        "rarity": 2
+                    }
+                ],
+                "gold_left": 0
+            },
+            {
+                "placement": 6,
+                "level": 6,
+                "last_round": 30,
+                "time_eliminated": 1948.968017578125,
+                "companion": {
+                    "skin_ID": 10,
+                    "content_ID": "e1ffd721-beec-4c64-84ce-23f0b0054921",
+                    "species": "PetGriffin"
+                },
+                "traits": [
+                    {
+                        "tier_total": 1,
+                        "name": "Druid",
+                        "tier_current": 1,
+                        "num_units": 2
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Inferno",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Mage",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Metal",
+                        "tier_current": 1,
+                        "num_units": 2
+                    },
+                    {
+                        "tier_total": 1,
+                        "name": "Predator",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Set2_Assassin",
+                        "tier_current": 1,
+                        "num_units": 3
+                    },
+                    {
+                        "tier_total": 1,
+                        "name": "Woodland",
+                        "tier_current": 1,
+                        "num_units": 3
+                    }
+                ],
+                "players_eliminated": 0,
+                "puuid": "KLomhWJVQF3P-an_WyZgRoj-SVXulO2JDxDiFyQDjFnxgicDrfZ3y7qCbEhmPpnO_v04QnT3ynt_Dw",
+                "total_damage_to_players": 99,
+                "units": [
+                    {
+                        "tier": 3,
+                        "items": [
+                            23,
+                            19,
+                            23
+                        ],
+                        "character_id": "TFT2_Nocturne",
+                        "name": "Nocturne",
+                        "rarity": 2
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            46
+                        ],
+                        "character_id": "TFT2_LeBlanc",
+                        "name": "LeBlanc",
+                        "rarity": 1
+                    },
+                    {
+                        "tier": 3,
+                        "items": [
+                            10204,
+                            39,
+                            25
+                        ],
+                        "character_id": "TFT2_Diana",
+                        "name": "Diana",
+                        "rarity": 0
+                    },
+                    {
+                        "tier": 3,
+                        "items": [
+                            10204
+                        ],
+                        "character_id": "TFT2_Ivern",
+                        "name": "Ivern",
+                        "rarity": 0
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_RekSai",
+                        "name": "RekSai",
+                        "rarity": 1
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            15
+                        ],
+                        "character_id": "TFT2_Maokai",
+                        "name": "Maokai",
+                        "rarity": 0
+                    }
+                ],
+                "gold_left": 0
+            },
+            {
+                "placement": 8,
+                "level": 7,
+                "last_round": 27,
+                "time_eliminated": 1767.9715576171875,
+                "companion": {
+                    "skin_ID": 4,
+                    "content_ID": "0cd56a14-cf39-4c68-83cc-1ca3b35b44e2",
+                    "species": "PetSGPig"
+                },
+                "traits": [
+                    {
+                        "tier_total": 2,
+                        "name": "Berserker",
+                        "tier_current": 0,
+                        "num_units": 2
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Crystal",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Metal",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 1,
+                        "name": "Poison",
+                        "tier_current": 1,
+                        "num_units": 3
+                    },
+                    {
+                        "tier_total": 1,
+                        "name": "Predator",
+                        "tier_current": 1,
+                        "num_units": 4
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Set2_Glacial",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Set2_Ranger",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Shadow",
+                        "tier_current": 0,
+                        "num_units": 1
+                    }
+                ],
+                "players_eliminated": 0,
+                "puuid": "nyBKUVVFC4hJGR9gY2j_dQ-j2JudztfDFBKrRAShcZzEHA1HXsaPCRCZppgwMBmUC96Y_WpV3DcU6Q",
+                "total_damage_to_players": 82,
+                "units": [
+                    {
+                        "tier": 2,
+                        "items": [
+                            3
+                        ],
+                        "character_id": "TFT2_Twitch",
+                        "name": "Twitch",
+                        "rarity": 3
+                    },
+                    {
+                        "tier": 3,
+                        "items": [
+                            24,
+                            10204,
+                            23
+                        ],
+                        "character_id": "TFT2_KogMaw",
+                        "name": "KogMaw",
+                        "rarity": 0
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            59,
+                            10204,
+                            59
+                        ],
+                        "character_id": "TFT2_RekSai",
+                        "name": "RekSai",
+                        "rarity": 1
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_Sion",
+                        "name": "Sion",
+                        "rarity": 2
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            66
+                        ],
+                        "character_id": "TFT2_DrMundo",
+                        "name": "DrMundo",
+                        "rarity": 2
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_Skarner",
+                        "name": "Skarner",
+                        "rarity": 1
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_Warwick",
+                        "name": "Warwick",
+                        "rarity": 0
+                    }
+                ],
+                "gold_left": 1
+            },
+            {
+                "placement": 2,
+                "level": 8,
+                "last_round": 34,
+                "time_eliminated": 2203.517822265625,
+                "companion": {
+                    "skin_ID": 1,
+                    "content_ID": "51308483-ce6c-49e7-9727-aa300827016f",
+                    "species": "PetMiner"
+                },
+                "traits": [
+                    {
+                        "tier_total": 2,
+                        "name": "Berserker",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 1,
+                        "name": "Druid",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Inferno",
+                        "tier_current": 1,
+                        "num_units": 3
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Light",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Mystic",
+                        "tier_current": 1,
+                        "num_units": 2
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Ocean",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Set2_Blademaster",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Set2_Ranger",
+                        "tier_current": 1,
+                        "num_units": 2
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Shadow",
+                        "tier_current": 2,
+                        "num_units": 4
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Summoner",
+                        "tier_current": 1,
+                        "num_units": 3
+                    },
+                    {
+                        "tier_total": 1,
+                        "name": "Woodland",
+                        "tier_current": 0,
+                        "num_units": 1
+                    }
+                ],
+                "players_eliminated": 1,
+                "puuid": "eLS7xWEVcELi9JNLhBuHIEEvQQRNYAW9NFo4JOoCvg4NFxtq7qe0wZDiPQs6JT4e6uz1bD5ZWnMgfg",
+                "total_damage_to_players": 154,
+                "units": [
+                    {
+                        "tier": 2,
+                        "items": [
+                            10204,
+                            49,
+                            46
+                        ],
+                        "character_id": "TFT2_MasterYi",
+                        "name": "MasterYi",
+                        "rarity": 4
+                    },
+                    {
+                        "tier": 1,
+                        "items": [
+                            10204,
+                            67
+                        ],
+                        "character_id": "TFT2_Nami",
+                        "name": "Nami",
+                        "rarity": 4
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_Varus",
+                        "name": "Varus",
+                        "rarity": 1
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_Malzahar",
+                        "name": "Malzahar",
+                        "rarity": 1
+                    },
+                    {
+                        "tier": 3,
+                        "items": [
+                            23,
+                            44,
+                            23
+                        ],
+                        "character_id": "TFT2_Kindred",
+                        "name": "Kindred",
+                        "rarity": 2
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            69
+                        ],
+                        "character_id": "TFT2_Sion",
+                        "name": "Sion",
+                        "rarity": 2
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            55
+                        ],
+                        "character_id": "TFT2_Yorick",
+                        "name": "Yorick",
+                        "rarity": 3
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_Annie",
+                        "name": "Annie",
+                        "rarity": 3
+                    }
+                ],
+                "gold_left": 0
+            },
+            {
+                "placement": 4,
+                "level": 8,
+                "last_round": 31,
+                "time_eliminated": 2009.210693359375,
+                "companion": {
+                    "skin_ID": 16,
+                    "content_ID": "b5cab758-7194-412a-8370-908b11c90e0a",
+                    "species": "PetPenguKnight"
+                },
+                "traits": [
+                    {
+                        "tier_total": 1,
+                        "name": "Druid",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Inferno",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Mage",
+                        "tier_current": 2,
+                        "num_units": 6
+                    },
+                    {
+                        "tier_total": 1,
+                        "name": "Mountain",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Mystic",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Ocean",
+                        "tier_current": 2,
+                        "num_units": 4
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Set2_Assassin",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Shadow",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Warden",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 1,
+                        "name": "Woodland",
+                        "tier_current": 0,
+                        "num_units": 2
+                    }
+                ],
+                "players_eliminated": 1,
+                "puuid": "1sXEv0O6iKXCxWA8CP_XpPLbAAjcs9borrI9p1SCfdY_J7EPBde4njibCpl8Pt9MlrLiPQfNdWAuXg",
+                "total_damage_to_players": 115,
+                "units": [
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_Taliyah",
+                        "name": "Taliyah",
+                        "rarity": 0
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            15,
+                            33,
+                            19
+                        ],
+                        "character_id": "TFT2_Brand",
+                        "name": "Brand",
+                        "rarity": 3
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            10204,
+                            67
+                        ],
+                        "character_id": "TFT2_Nami",
+                        "name": "Nami",
+                        "rarity": 4
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            35
+                        ],
+                        "character_id": "TFT2_Veigar",
+                        "name": "Veigar",
+                        "rarity": 2
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_Vladimir",
+                        "name": "Vladimir",
+                        "rarity": 0
+                    },
+                    {
+                        "tier": 1,
+                        "items": [
+                            10204,
+                            67
+                        ],
+                        "character_id": "TFT2_Nautilus",
+                        "name": "Nautilus",
+                        "rarity": 2
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_LeBlanc",
+                        "name": "LeBlanc",
+                        "rarity": 1
+                    },
+                    {
+                        "tier": 1,
+                        "items": [],
+                        "character_id": "TFT2_Syndra",
+                        "name": "Syndra",
+                        "rarity": 1
+                    }
+                ],
+                "gold_left": 3
+            },
+            {
+                "placement": 3,
+                "level": 8,
+                "last_round": 31,
+                "time_eliminated": 2022.041259765625,
+                "companion": {
+                    "skin_ID": 10,
+                    "content_ID": "4b799da4-88d3-41db-ad4a-b937f89db018",
+                    "species": "PetGrumpyLion"
+                },
+                "traits": [
+                    {
+                        "tier_total": 1,
+                        "name": "Alchemist",
+                        "tier_current": 1,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Berserker",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Electric",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Light",
+                        "tier_current": 1,
+                        "num_units": 3
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Mage",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Mystic",
+                        "tier_current": 1,
+                        "num_units": 2
+                    },
+                    {
+                        "tier_total": 1,
+                        "name": "Poison",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Set2_Assassin",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 3,
+                        "name": "Set2_Blademaster",
+                        "tier_current": 0,
+                        "num_units": 1
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Shadow",
+                        "tier_current": 2,
+                        "num_units": 4
+                    },
+                    {
+                        "tier_total": 2,
+                        "name": "Summoner",
+                        "tier_current": 1,
+                        "num_units": 3
+                    }
+                ],
+                "players_eliminated": 0,
+                "puuid": "hUmB85ZPM91GOXxOb8Z1KP81509TDqTzdl_64OBB82j0LAg5nJg2HypCaScyqBQ-DqViks0Ienv5Og",
+                "total_damage_to_players": 83,
+                "units": [
+                    {
+                        "tier": 2,
+                        "items": [
+                            10204,
+                            1
+                        ],
+                        "character_id": "TFT2_Malzahar",
+                        "name": "Malzahar",
+                        "rarity": 1
+                    },
+                    {
+                        "tier": 1,
+                        "items": [],
+                        "character_id": "TFT2_Veigar",
+                        "name": "Veigar",
+                        "rarity": 2
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_Soraka",
+                        "name": "Soraka",
+                        "rarity": 2
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            37,
+                            10204
+                        ],
+                        "character_id": "TFT2_Singed",
+                        "name": "Singed",
+                        "rarity": 4
+                    },
+                    {
+                        "tier": 1,
+                        "items": [],
+                        "character_id": "TFT2_Zed",
+                        "name": "Zed",
+                        "rarity": 4
+                    },
+                    {
+                        "tier": 1,
+                        "items": [
+                            22,
+                            68,
+                            12
+                        ],
+                        "character_id": "TFT2_MasterYi",
+                        "name": "MasterYi",
+                        "rarity": 4
+                    },
+                    {
+                        "tier": 2,
+                        "items": [],
+                        "character_id": "TFT2_Sion",
+                        "name": "Sion",
+                        "rarity": 2
+                    },
+                    {
+                        "tier": 2,
+                        "items": [
+                            59
+                        ],
+                        "character_id": "TFT2_Yorick",
+                        "name": "Yorick",
+                        "rarity": 3
+                    }
+                ],
+                "gold_left": 5
+            }
+        ],
+        "tft_set_number": 2,
+        "game_length": 2212.17041015625,
+        "queue_id": 1090,
+        "game_version": "Version 9.22.296.5720 (Nov 05 2019/17:59:07) [PUBLIC] <__MAIN__>"
+    },
+    "metadata": {
+        "data_version": "2",
+        "participants": [
+            "qTOHmT_nhtehdJ3ERr_kEgpyE009-OCcT3ufrEcEOClXad6hpwBoEZEyLnCBpkWsQ2thzPCPm3UhnA",
+            "6enNs6gshwXfAKfkJXEMRB9OA-KY-abcCA94ANW0HGDTmTrxL6BUFaAGjGPLnc7EWzY9vhX3r_pd9w",
+            "LsQ9VmCNHGZvlMXyTg4c2mZ3OT9mcrfX6FDrc04JIP_mn66fJCcyJkLOsYcPS-t7fKD91Ak86pjizw",
+            "KLomhWJVQF3P-an_WyZgRoj-SVXulO2JDxDiFyQDjFnxgicDrfZ3y7qCbEhmPpnO_v04QnT3ynt_Dw",
+            "nyBKUVVFC4hJGR9gY2j_dQ-j2JudztfDFBKrRAShcZzEHA1HXsaPCRCZppgwMBmUC96Y_WpV3DcU6Q",
+            "eLS7xWEVcELi9JNLhBuHIEEvQQRNYAW9NFo4JOoCvg4NFxtq7qe0wZDiPQs6JT4e6uz1bD5ZWnMgfg",
+            "1sXEv0O6iKXCxWA8CP_XpPLbAAjcs9borrI9p1SCfdY_J7EPBde4njibCpl8Pt9MlrLiPQfNdWAuXg",
+            "hUmB85ZPM91GOXxOb8Z1KP81509TDqTzdl_64OBB82j0LAg5nJg2HypCaScyqBQ-DqViks0Ienv5Og"
+        ],
+        "match_id": "NA1_3204245104"
+    }
+}

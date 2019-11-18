@@ -1,7 +1,7 @@
 import requests
 import pprint
 
-key = {"X-Riot-Token": "YOUR_TOKEN"}
+key = {"X-Riot-Token": "RGAPI-24115607-e824-4657-b49d-759f807ea4b7"}
 base = 'https://'
 NA = 'na1.api.riotgames.com'
 

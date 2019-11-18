@@ -1,0 +1,23 @@
+## First question to answer:
+What is the meta of the top 100 players, today?
+
+1) Collect the top 100 summoners save results to a file
+
+## Example:
+challengers = Leagues.get_challengers()
+challengers.meta(2) --> returns the most commonly used trait amongst challengers finishing the game in 2nd place 
+challengers.show() --> display all challengers
+
+
+## Summoner:
+haem.playstyle(24) --> tells me haem's playstyle up to the last 24 games
+
+### One way
+>>> ch = Leagues()
+>>> ch.get_challengers()
+>>> ch.show()
+{'entries': [], 'tier': 'CHALLENGER'}
+
+
+### Another way
+Leagues(region, league)
